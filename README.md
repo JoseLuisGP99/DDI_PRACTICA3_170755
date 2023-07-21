@@ -18,5 +18,5 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre | **Practica 3** *Hola Mundo Wearable* |
-| Descripción  | En resumen, Creación de la primera app con mensaje de hola mundo para wearables cuadrados y redondos  |
+| Descripción  | Creación de la primera app con mensaje de hola mundo para wearables cuadrados y redondos  |
 |  Fecha de Carga | 21/06/23  |
